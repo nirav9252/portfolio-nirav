@@ -13,6 +13,7 @@ import {
   DiBootstrap,
   DiHtml5,
   DiCss3,
+  DiMysql,
 } from "react-icons/di";
 import {
   SiRedis,
@@ -44,6 +45,9 @@ const Techstack = () => {
       {/* <Col xs={4} md={2} className="tech-icons">
         <SiSolidity />
       </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMysql />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
       </Col>
