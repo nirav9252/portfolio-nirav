@@ -9,6 +9,10 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  DiGithub,
+  DiBootstrap,
+  DiHtml5,
+  DiCss3,
 } from "react-icons/di";
 import {
   SiRedis,
@@ -46,9 +50,18 @@ const Techstack = () => {
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithub />
+      </Col>
       {/* <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
       </Col> */}

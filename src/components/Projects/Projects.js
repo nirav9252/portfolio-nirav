@@ -9,7 +9,11 @@ import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
-function Projects() {
+import hrms from "../../Assets/Projects/hrms.png";
+import organization from "../../Assets/Projects/organization.png";
+import foodcouture from "../../Assets/Projects/foodcouture.png";
+
+const Projects = () => {
   return (
     <Container fluid className="project-section">
       <Particle />
@@ -23,38 +27,40 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              // imgPath={chatify}
+              imgPath={hrms}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="HRMS"
+              description="The HRMS project aims to create a comprehensive Human Resource Management System to enhance the efficiency of HR processes within our organization. This system will serve as a centralized platform for managing employee data or information, payroll, leave, organization assets and more."
+              // ghLink="https://github.com/soumyajit4419/Chatify"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              // imgPath={bitsOfCode}
+              imgPath={organization}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Organization Website"
+              description="In this website you can get detail about the organization like technology, services, blog and more. You can also view opening position and apply for this designation threw this website. You can get contact information for this organization."
+              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              demoLink="https://www.softyoi.com/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={foodcouture}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Food Couture"
+              description="Food Couture offers to view new recipes video to create delicious food. You can purchase full courses video and also get pdf of recipes."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://foodcouture.in/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -84,13 +90,13 @@ function Projects() {
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
   );
-}
+};
 
 export default Projects;

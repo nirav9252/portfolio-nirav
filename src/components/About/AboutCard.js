@@ -11,7 +11,7 @@ const AboutCard = () => {
             Hi Everyone, I am <span className="purple">Nirav Motivaras </span>
             from <span className="purple"> Ahmedabad, India.</span>
             <br />
-            I am currently employed as a software developer at Ahmedabad.
+            I am currently employed as a software developer at SoftYoi LLP.
             <br />
             I have completed Integrated MSc in IT in year 2022.
             <br />
