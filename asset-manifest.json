@@ -1,29 +1,33 @@
 {
   "files": {
     "main.css": "/portfolio-nirav/static/css/main.f14d6803.css",
-    "main.js": "/portfolio-nirav/static/js/main.655c015f.js",
+    "main.js": "/portfolio-nirav/static/js/main.08421bed.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio-nirav/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-nirav/static/js/787.1ed0c42c.chunk.js",
+    "static/media/foodcouture.png": "/portfolio-nirav/static/media/foodcouture.da5617b8e75dfd92359c.png",
     "static/media/leaf.png": "/portfolio-nirav/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/portfolio-nirav/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/portfolio-nirav/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Nirav_Resume.pdf": "/portfolio-nirav/static/media/Nirav_Resume.4f8d57cba37d72feddf6.pdf",
     "static/media/codeEditor.png": "/portfolio-nirav/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/portfolio-nirav/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/portfolio-nirav/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolio-nirav/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/hrms.png": "/portfolio-nirav/static/media/hrms.9f9b02e94a7323075c9c.png",
+    "static/media/organization.png": "/portfolio-nirav/static/media/organization.ca69fe26e8862b9aa6a9.png",
     "static/media/chatify.png": "/portfolio-nirav/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/portfolio-nirav/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Nirav_Resume.pdf": "/portfolio-nirav/static/media/Nirav_Resume.3ef4eab8063e4505cbee.pdf",
     "static/media/avatar.svg": "/portfolio-nirav/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/portfolio-nirav/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio-nirav/index.html",
+    "static/media/NM.svg": "/portfolio-nirav/static/media/NM.a7365a8d5b5959aa2ca85567c6164b72.svg",
     "main.f14d6803.css.map": "/portfolio-nirav/static/css/main.f14d6803.css.map",
-    "main.655c015f.js.map": "/portfolio-nirav/static/js/main.655c015f.js.map",
+    "main.08421bed.js.map": "/portfolio-nirav/static/js/main.08421bed.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio-nirav/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-nirav/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f14d6803.css",
-    "static/js/main.655c015f.js"
+    "static/js/main.08421bed.js"
   ]
 }
