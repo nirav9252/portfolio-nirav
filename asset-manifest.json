@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-nirav/static/css/main.f14d6803.css",
-    "main.js": "/portfolio-nirav/static/js/main.08421bed.js",
+    "main.js": "/portfolio-nirav/static/js/main.183a5335.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio-nirav/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-nirav/static/js/787.1ed0c42c.chunk.js",
     "static/media/foodcouture.png": "/portfolio-nirav/static/media/foodcouture.da5617b8e75dfd92359c.png",
@@ -22,12 +22,12 @@
     "index.html": "/portfolio-nirav/index.html",
     "static/media/NM.svg": "/portfolio-nirav/static/media/NM.a7365a8d5b5959aa2ca85567c6164b72.svg",
     "main.f14d6803.css.map": "/portfolio-nirav/static/css/main.f14d6803.css.map",
-    "main.08421bed.js.map": "/portfolio-nirav/static/js/main.08421bed.js.map",
+    "main.183a5335.js.map": "/portfolio-nirav/static/js/main.183a5335.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio-nirav/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-nirav/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f14d6803.css",
-    "static/js/main.08421bed.js"
+    "static/js/main.183a5335.js"
   ]
 }
