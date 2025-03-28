@@ -31,8 +31,8 @@ const Projects = () => {
               // imgPath={chatify}
               imgPath={buzzticks}
               isBlog={false}
-              title="HRMS"
-              description="uzzTicks is an online booking platform that simplifies event planning and ticketing for a wide range of activities. The website provides tools for users to easily manage event registration, sales, and booking systems. Whether for concerts, conferences, or smaller gatherings, BuzzTicks offers customizable features to enhance the booking experience."
+              title="Buzzticks"
+              description="BuzzTicks is an online booking platform that simplifies event planning and ticketing for a wide range of activities. The website provides tools for users to easily manage event registration, sales, and booking systems. Whether for concerts, conferences, or smaller gatherings, BuzzTicks offers customizable features to enhance the booking experience."
               // ghLink="https://github.com/soumyajit4419/Chatify"
               // demoLink="https://chatify-49.web.app/"
             />
@@ -56,7 +56,7 @@ const Projects = () => {
               imgPath={organization}
               isBlog={false}
               title="Organization Website"
-              description="In this website you can get detail about the organization like technology, services, blog and more. You can also view opening position and apply for this designation threw this website. You can get contact information for this organization."
+              description="This website provides details about the organization, including technology, services, and a blog. You can also view open positions and apply through this website. You can get contact information for this organization."
               // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               // demoLink="https://www.softyoi.com/"
             />
